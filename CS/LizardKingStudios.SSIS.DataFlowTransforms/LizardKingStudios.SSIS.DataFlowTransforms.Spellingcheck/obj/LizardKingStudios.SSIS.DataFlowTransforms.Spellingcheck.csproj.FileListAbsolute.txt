@@ -1,0 +1,12 @@
+C:\Dev\ApressBook\Chapter15\CS\LizardKingStudios.SSIS.DataFlowTransforms\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\ApressBook\Chapter15\CS\LizardKingStudios.SSIS.DataFlowTransforms\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck\bin\Debug\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck.dll
+C:\Dev\ApressBook\Chapter15\CS\LizardKingStudios.SSIS.DataFlowTransforms\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck\bin\Debug\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck.pdb
+C:\Dev\ApressBook\Chapter15\CS\LizardKingStudios.SSIS.DataFlowTransforms\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck\bin\Debug\Interop.DTSLib.dll
+C:\Dev\ApressBook\Chapter15\CS\LizardKingStudios.SSIS.DataFlowTransforms\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck\bin\Debug\Interop.DTSPipeline.dll
+C:\Dev\ApressBook\Chapter15\CS\LizardKingStudios.SSIS.DataFlowTransforms\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck\bin\Debug\Interop.TxDerived.dll
+C:\Dev\ApressBook\Chapter15\CS\LizardKingStudios.SSIS.DataFlowTransforms\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck\obj\Debug\Interop.DTSLib.dll
+C:\Dev\ApressBook\Chapter15\CS\LizardKingStudios.SSIS.DataFlowTransforms\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck\obj\Debug\Interop.DTSPipeline.dll
+C:\Dev\ApressBook\Chapter15\CS\LizardKingStudios.SSIS.DataFlowTransforms\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck\obj\Debug\Interop.TxDerived.dll
+C:\Dev\ApressBook\Chapter15\CS\LizardKingStudios.SSIS.DataFlowTransforms\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck\obj\Debug\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck.csproj.ResolveComReference.cache
+C:\Dev\ApressBook\Chapter15\CS\LizardKingStudios.SSIS.DataFlowTransforms\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck\obj\Debug\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck.dll
+C:\Dev\ApressBook\Chapter15\CS\LizardKingStudios.SSIS.DataFlowTransforms\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck\obj\Debug\LizardKingStudios.SSIS.DataFlowTransforms.Spellingcheck.pdb
